@@ -1,0 +1,4 @@
+PORT=3000
+SHOPIFY_API_SECRET=your_shopify_app_client_secret
+SHOPIFY_ADMIN_ACCESS_TOKEN=shpat_xxxxxxxxxxxxxxxxxxxx
+SHOPIFY_STORE_DOMAIN=your-store.myshopify.com
